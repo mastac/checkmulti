@@ -1,0 +1,16 @@
+2012-07-09 21:31:27 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 /var/www/vhosts/checkmulti.local/htdocs/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/vhosts/checkmulti.local/htdocs/index.php(42): require('/var/www/vhosts...')
+#2 {main}
+2012-07-09 21:31:29 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 /var/www/vhosts/checkmulti.local/htdocs/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/vhosts/checkmulti.local/htdocs/index.php(42): require('/var/www/vhosts...')
+#2 {main}
+2012-07-09 21:31:33 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 /var/www/vhosts/checkmulti.local/htdocs/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/vhosts/checkmulti.local/htdocs/index.php(42): require('/var/www/vhosts...')
+#2 {main}
+2012-07-09 21:31:34 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 /var/www/vhosts/checkmulti.local/htdocs/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /var/www/vhosts/checkmulti.local/htdocs/index.php(42): require('/var/www/vhosts...')
+#2 {main}
